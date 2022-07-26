@@ -1,0 +1,17 @@
+body {
+    background-color: azure;
+}
+
+.scrat {
+    height: 44vmax;
+    width: 98vmax;
+}
+
+button {
+    border-radius: 9rem;
+    color: rgba(5, 179, 34, 0.774);
+    text-decoration: solid;
+    text-transform: capitalize;
+    background-color: black;
+    font-family: fantasy;
+}
